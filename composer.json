@@ -1,0 +1,12 @@
+{
+    "name": "mac/phupt_package",
+    "description": "phupt, demo, mau demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "TrungPhuNA",
+            "email": "phupt.humg.94@gmail.com"
+        }
+    ],
+    "require": {}
+}
